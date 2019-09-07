@@ -4,4 +4,4 @@ Blogspost
 
 <img src="Capture.PNG" height="auto" width="auto">
 
-https://humtak365.blogspot.com/
+https://www.humtak.net/
